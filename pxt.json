@@ -1,0 +1,30 @@
+{
+    "name": "Prueba",
+    "description": "",
+    "dependencies": {
+        "xinabox-cs11": "*",
+        "OD01": "github:XinaBox/pxt-OD01#v1.0.12",
+        "SW01": "github:XinaBox/pxt-SW01#v1.0.23",
+        "SL01 SI113": "github:XinaBox/pxt-SL01#v0.1.0",
+        "pxt-si01": "github:XinaBox/pxt-SI01#v0.0.51",
+        "SG33": "github:XinaBox/pxt-SG33#84c9877f5df5fe871b2f9e2647f9c75f9659950d",
+        "SN01": "github:XinaBox/pxt-SN01#2c9728dfed1895dbefa444ef2256ab1f3c327dd6",
+        "pxt-PB04": "github:XinaBox/pxt-PB04#v0.0.19"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "0.15.66",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "tsprj"
+}
